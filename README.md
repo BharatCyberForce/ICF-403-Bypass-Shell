@@ -23,6 +23,8 @@ CyberForceX Shell is a web shell designed to bypass 403 Forbidden errors on web 
 
 3. Access the web shell through the browser by visiting http://example.com/path/to/shell.php.
 
+4. Webshell Password: CyberForceOfIndia
+
 ## Usage
 
 Once you have uploaded the shell.php file to the target server, you can access the web shell through a web browser. Enter the URL where the shell.php file is located in the browser's address bar. You will be prompted to enter the password to access the shell.
@@ -37,7 +39,6 @@ Once authenticated, you can use the web shell interface to execute commands, upl
 
 ## Disclaimer
 
-This web shell is intended for educational and testing purposes only. Unauthorized access to remote servers is illegal and unethical. Use this tool responsibly and only with proper authorization.
-
-The developers and contributors of this web shell are not responsible for any misuse or damage caused by the use of this tool. Use it at your own risk.
+This web shell is intended for educational and testing purposes only. Unauthorized access to remote servers is illegal and unethical. 
+The developers and contributors of this web shell are not responsible for any misuse or damage caused by the use of this shell. Use it at your own risk.
 
